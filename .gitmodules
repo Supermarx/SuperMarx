@@ -1,0 +1,6 @@
+[submodule "albert"]
+	path = albert
+	url = git@github.com:SuperMarx/albert
+[submodule "karl"]
+	path = karl
+	url = git@github.com:SuperMarx/karl
