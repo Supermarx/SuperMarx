@@ -4,3 +4,6 @@
 [submodule "karl"]
 	path = karl
 	url = git@github.com:SuperMarx/karl
+[submodule "supermarx"]
+	path = supermarx
+	url = git@github.com:SuperMarx/common
