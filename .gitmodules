@@ -7,3 +7,6 @@
 [submodule "supermarx"]
 	path = supermarx
 	url = git@github.com:SuperMarx/common
+[submodule "vladimir"]
+	path = vladimir
+	url = git@github.com:SuperMarx/vladimir
