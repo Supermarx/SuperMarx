@@ -10,3 +10,6 @@
 [submodule "vladimir"]
 	path = vladimir
 	url = git@github.com:SuperMarx/vladimir
+[submodule "maximus"]
+	path = maximus
+	url = ssh://git@github.com/Supermarx/maximus.git
