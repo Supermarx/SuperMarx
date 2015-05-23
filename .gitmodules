@@ -13,3 +13,6 @@
 [submodule "maximus"]
 	path = maximus
 	url = ssh://git@github.com/Supermarx/maximus.git
+[submodule "skog"]
+	path = skog
+	url = ssh://git@github.com/Supermarx/skog
