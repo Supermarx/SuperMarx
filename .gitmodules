@@ -16,3 +16,6 @@
 [submodule "skog"]
 	path = skog
 	url = ssh://git@github.com/Supermarx/skog
+[submodule "menos"]
+	path = menos
+	url = ssh://git@github.com/Supermarx/menos
