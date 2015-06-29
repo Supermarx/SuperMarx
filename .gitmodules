@@ -19,3 +19,6 @@
 [submodule "menos"]
 	path = menos
 	url = ssh://git@github.com/Supermarx/menos
+[submodule "paul"]
+	path = paul
+	url = ssh://git@github.com/Supermarx/paul

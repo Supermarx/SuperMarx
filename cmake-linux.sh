@@ -7,6 +7,6 @@ mkdir -p build
 pushd build
 CC="clang" CXX="clang++" cmake ..
 ln -s ../config.yaml
-mkdir -p imagecitations
+mkdir -p imagecitations cache
 popd
 
