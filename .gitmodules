@@ -22,3 +22,6 @@
 [submodule "paul"]
 	path = paul
 	url = ssh://git@github.com/Supermarx/paul
+[submodule "isidor"]
+	path = isidor
+	url = ssh://git@github.com/supermarx/isidor
